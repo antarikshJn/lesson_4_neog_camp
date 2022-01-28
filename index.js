@@ -1,0 +1,1 @@
+alert("Hey your External Javascript is woring")
